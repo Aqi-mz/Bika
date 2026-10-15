@@ -1,0 +1,13 @@
+{
+  "name": "Rotas Bika+",
+  "short_name": "Rotas",
+  "lang": "pt",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F6F1",
+  "theme_color": "#1F5C2E",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
